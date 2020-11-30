@@ -1,6 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.. htmlproofer exampleSite/public --check-html --allow-hash-href --empty-alt-ignore --disable-external "
+  command = "cd exampleSite && hugo --gc --themesDir ../.. "
   
 [build.environment]
   HUGO_VERSION = "0.73.0"

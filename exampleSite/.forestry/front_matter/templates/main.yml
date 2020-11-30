@@ -20,3 +20,5 @@ fields:
       format: html-blocks
   label: tsetg
   description: gsfgdh
+pages:
+- exampleSite/content/testtestts.md
